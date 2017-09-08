@@ -1,5 +1,5 @@
 # 2048 Game
-2048 is a signle-player game, developped by Gabriele Cirulli on 9 March 2014 as free and open-source software under MIT license.
+2048 is a signle-player game, developed by Gabriele Cirulli on 9 March 2014 as free and open-source software under MIT license.
 
 # Screenshots
 
